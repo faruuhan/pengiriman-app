@@ -1,6 +1,6 @@
 UAS Pemrograman Web I
 
-Nama: Farhan Ramadhan
+Nama: Farhan Ramadhan</br>
 Konsentrasi: Informatika Komputer
 
 dengan studi kasus web pengelolaan data pengiriman barang terdiri dari create update read delete dan login/logout
